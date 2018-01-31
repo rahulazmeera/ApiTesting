@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8139" started-at="2017-08-10T16:05:12Z" finished-at="2017-08-10T16:05:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8139" started-at="2017-08-10T16:05:12Z" finished-at="2017-08-10T16:05:21Z">
+      <class name="StoreAPI.StoreAPI.store_Api_Test">
+        <test-method status="PASS" signature="Cancellation_Of_Order()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="Cancellation_Of_Order" duration-ms="717" started-at="2017-08-10T11:05:12Z" finished-at="2017-08-10T11:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cancellation_Of_Order -->
+        <test-method status="PASS" signature="CreateOrder()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="CreateOrder" duration-ms="1275" started-at="2017-08-10T11:05:13Z" finished-at="2017-08-10T11:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrder -->
+        <test-method status="PASS" signature="Get_EquipmentDetails()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="Get_EquipmentDetails" duration-ms="1749" started-at="2017-08-10T11:05:14Z" finished-at="2017-08-10T11:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_EquipmentDetails -->
+        <test-method status="PASS" signature="Get_OrdersFrom_Store()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="Get_OrdersFrom_Store" duration-ms="123" started-at="2017-08-10T11:05:16Z" finished-at="2017-08-10T11:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_OrdersFrom_Store -->
+        <test-method status="PASS" signature="Intial_Setup_Api()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="Intial_Setup_Api" duration-ms="1649" started-at="2017-08-10T11:05:16Z" finished-at="2017-08-10T11:05:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intial_Setup_Api -->
+        <test-method status="PASS" signature="Update_Equipment_Status()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="Update_Equipment_Status" duration-ms="1806" started-at="2017-08-10T11:05:18Z" finished-at="2017-08-10T11:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_Equipment_Status -->
+        <test-method status="PASS" signature="Update_Item_Status()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="Update_Item_Status" duration-ms="439" started-at="2017-08-10T11:05:20Z" finished-at="2017-08-10T11:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_Item_Status -->
+        <test-method status="PASS" signature="Update_Order_Status()[pri:0, instance:StoreAPI.StoreAPI.store_Api_Test@66d2e7d9]" name="Update_Order_Status" duration-ms="352" started-at="2017-08-10T11:05:20Z" finished-at="2017-08-10T11:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_Order_Status -->
+      </class> <!-- StoreAPI.StoreAPI.store_Api_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
